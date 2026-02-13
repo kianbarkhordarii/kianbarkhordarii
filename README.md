@@ -39,13 +39,7 @@ I am a **Tehran-based** Multi-disciplinary Engineer. My expertise bridges the ga
 
 ---
 
-## 📊 GitHub Ecosystem
 
-![Kian's Stats](https://github-readme-stats.vercel.app/api?username=kianbarkhordarii&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kianbarkhordarii&layout=compact&theme=tokyonight)
-
----
 
 ## 📬 Connect with Me
 - 📍 **Location:** Tehran, Iran
