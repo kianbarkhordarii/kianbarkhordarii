@@ -1,37 +1,40 @@
 # 🛡️ Kian Barkhordari
-### **Cyber Security Researcher | Network Engineer | Full-Stack Python Developer**
+### **Cyber Security Engineer | Full-Stack Web Developer | Network Architect**
 
 
 
 ---
 
-## 👨‍💻 About Me
-I am a **Tehran-based** Technical Engineer with a deep passion for **Cyber Security** and **Automated Systems**. My expertise lies at the intersection of robust network infrastructure and intelligent software development. I build tools that are not only functional but also secure by design.
+## 👨‍💻 Professional Profile
+I am a **Tehran-based** Multi-disciplinary Engineer. My expertise bridges the gap between **High-Performance Web Development** and **Advanced Cyber Security**. With a deep understanding of both offensive and defensive security, I build scalable web applications that are hardened against modern threats.
 
 ---
 
-## 🛠 Tech Stack & Expertise
+## 🛠 Skills & Certifications
 
-### 🔐 Security & Networking
-- **Cyber Security:** Certified Ethical Hacker (CEH), Security+
-- **Networking:** CCNA (Cisco), MCSA (Microsoft), Network+
-- **OS:** Linux (SANS/Advanced Administration)
+### 🌐 Full-Stack Web Development
+- **Frontend:** HTML5, CSS3 (Modern UI/UX), JavaScript (ES6+)
+- **Backend:** Python (Django/Flask Architect), C++ (System Logic)
+- **Tools:** Responsive Design, API Integration, Web Security
 
-### 💻 Programming & Web
-- **Backend:** Python (Advanced Architecture), C++ (Low-level Logic)
-- **Frontend:** HTML5, CSS3, JavaScript (Modern Web Interfaces)
-- **Data:** SQL, Matrix Operations (NumPy/Pandas)
+### 🔐 Cyber Security & Forensics (SANS & EC-Council)
+- **Certifications:** CEH (Ethical Hacking), Security+, SANS Advanced Training
+- **Expertise:** Pentesting, Digital Forensics, Vulnerability Assessment
+
+### 🛰️ Network Engineering (Cisco & Microsoft)
+- **Certifications:** CCNA (Routing & Switching), MCSA (Infrastructure), Network+
+- **Systems:** Linux/Windows Server Administration
 
 ---
 
-## 🏆 Featured Projects (The Elite Collection)
+## 🏆 Featured Projects (The Elite 13)
 
 | Category | Highlight Projects |
 | :--- | :--- |
-| **AI & Vision** | **VisionGuard:** Real-time CCTV Analytics \| **PixelDiff:** Forensic Image Analysis |
-| **Security** | **GuardState Auth:** FSM-based Security Engine with Anti-Brute Force |
-| **Automation** | **OmniDownloader:** Multi-platform media engine with Admin Analytics |
-| **Algorithms** | **PathFinder DFS:** AI Pathfinding \| **SmartConnect:** Network Optimization |
+| **Web & Automation** | **OmniDownloader Suite:** Full-stack media engine with secure admin panel |
+| **AI & Vision** | **VisionGuard:** Neural motion analytics \| **PixelDiff:** Image Forensic Engine |
+| **Security Logic** | **GuardState Auth:** Multi-factor FSM-based authentication system |
+| **Algorithms** | **PathFinder AI:** Advanced DFS Maze Solver \| **SmartConnect:** Network Graph Optimization |
 
 
 
@@ -44,12 +47,10 @@ I am a **Tehran-based** Technical Engineer with a deep passion for **Cyber Secur
 ---
 
 ## 📬 Connect with Me
-Let's build something secure together:
-
 - 📍 **Location:** Tehran, Iran
 - 📧 **Email:** [Kianbarkhordari2002@gmail.com](mailto:Kianbarkhordari2002@gmail.com)
-- 🔗 **LinkedIn:** [Kian Barkhordari](https://www.linkedin.com/in/kian-barkhordari)
+- 🔗 **LinkedIn:** [in/kian-barkhordari](https://www.linkedin.com/in/kian-barkhordari)
 - ✈️ **Telegram:** [@kianbarkhordari](https://t.me/kianbarkhordari)
 
 ---
-*"The quieter you become, the more you are able to hear."* 🕵️‍♂️
+*"Building the future, Securing the present."* 🚀
