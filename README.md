@@ -13,7 +13,7 @@ I am a **Tehran-based** Multi-disciplinary Engineer. My expertise bridges the ga
 ## 🛠 Skills & Certifications
 
 ### 🌐 Full-Stack Web Development
-- **Frontend:** HTML5, CSS5, JavaScript (ES6+)
+- **Frontend:** HTML5, CSS3, JavaScript 
 - **Backend:** Python , C++ (System Logic)
 
 ### 🔐 Cyber Security & Forensics (SANS & EC-Council)
